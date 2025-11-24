@@ -1,0 +1,1 @@
+Speech-to-Text Converter — Built a simple web application that converts live speech into text using the Web Speech API, with real-time transcription display and a one-click copy feature. Designed a clean, responsive interface with custom animated buttons for a smooth user experience.
